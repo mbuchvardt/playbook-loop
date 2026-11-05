@@ -89,39 +89,47 @@ Virkede noget ikke som beskrevet, så ret opskriften med det samme. Det er
 loopet, og det er hele pointen.
 
 
-TRIN 4 - GEM DEN SOM MIN PLAYBOOK 1.0
+TRIN 4 - GEM
 
-Spørg mig først om én ting: er der noget ved måden, jeg læser og arbejder på,
-du skal føje til de seks regler ovenfor? Nævn to eksempler, så jeg kan
-genkende, hvad du spørger om - fx "jeg læser tabeller bedre end prosa" eller
-"henvis aldrig til noget tidligere i samtalen". Svarer jeg nej, går vi videre.
-
-Skriv så min playbook ud i markdown, klar til at kopiere ind i en fil:
+Skriv ÉN fil ud, og hold den lille. Den skal kun indeholde det, der er mit:
 
   # Min playbook - [MIN ROLLE]
   Version 1.0 - [dagens dato]
+  Rammen - FERC, spilleregler og de seks skriveregler - står i
+  https://github.com/mbuchvardt/playbook-loop og skal ikke kopieres herind.
 
-  ## Sådan skriver du til mig    (de seks regler plus mine tilføjelser)
-  ## Sådan virker loopet         (kort: FERC og de fire skridt)
-  ## Spilleregler                (fra PLAYBOOK.md, tilpasset mit fag)
-  ## Opskrift 1: [navn]          (den vi lige kørte, med mine rettelser)
-  ## Ændringsnoter               (tabel: Version | Dato | Hvad er ændret | Hvorfor)
-                                 (første linje: 1.0 | [dato] | Første opskrift,
-                                  skrevet til [min rolle] | Udgangspunkt.)
+  ## Opskrift 1: [navn]
+  [hele opskriften, som vi har rettet den]
 
-Sig til mig, at jeg skal gemme den som en fil. Du kan ikke gemme den for mig.
+  ## Ændringsnoter
+  | Version | Dato | Hvad er ændret | Hvorfor |
+  | 1.0 | [dato] | Første opskrift, skrevet til [min rolle] | Udgangspunkt. |
+
+Skriv IKKE FERC, spillereglerne, de seks regler eller forklaringer af loopet
+ind i filen. De står i repoet. Filen her er kun mit eget arbejde.
+
+Sig til mig med præcis denne besked, når filen er skrevet ud:
+"Kopiér det ovenfor og gem det som playbook.md. Du behøver ikke læse det -
+det er dit eget arbejde skrevet ned."
+
+Du kan ikke gemme den for mig.
 
 
-TRIN 5 - RESTEN VENTER, TIL JEG FÅR BRUG FOR DEN
+TRIN 5 - ÉN TING MERE, OG SÅ ER VI FÆRDIGE
 
-Vis mig titlerne på de 14 andre opskrifter i én liste - kun titler.
+Stil ét sidste spørgsmål, og kun hvis filen er gemt:
 
-Stil så ÉT spørgsmål: er der nogen af dem, jeg vil have skrevet nu?
-Har du et værktøj til spørgsmål med flere valgmuligheder, så brug det her.
-Skriv kun dem, jeg peger på. Siger jeg "ikke nu", er det et fint svar.
+  "Er der noget ved måden, du læser på, jeg skal huske? Fx at datoer skal
+  skrives helt ud, eller at du vil have tabeller frem for prosa. Ellers er
+  vi færdige."
 
-Resten skriver du, den dag jeg beder om dem. Så er min playbook kort og
-brugt, i stedet for lang og ulæst.
+Siger jeg nej, er vi færdige. Siger jeg noget, giver du mig ÉN linje, jeg kan
+sætte ind i filen - ikke hele filen igen.
+
+Du skal IKKE vise mig de 14 andre opskrifter og ikke spørge, om jeg vil have
+nogen af dem skrevet. Den dag jeg har en anden slags opgave, siger jeg det,
+og så skriver du en opskrift til den. Opgaven trækker opskriften frem - ikke
+en liste.
 
 
 DEREFTER - LOOPET
@@ -157,10 +165,18 @@ Fordi en playbook med 15 opskrifter, du ikke har brugt, er en pdf. En playbook m
 
 De 14 andre er ikke væk. De ligger i [OPSKRIFTER.md](OPSKRIFTER.md), og du kan når som helst sige *"skriv nummer 7 om til mig"*. De bliver bare først til **dine**, når du har brug for dem.
 
+## Din fil skal være lille
+
+Den indeholder kun dine opskrifter og dine ændringsnoter. Rammen — FERC, spillereglerne, de seks skriveregler — bliver i dette repo og skal ikke kopieres ind i din fil.
+
+To grunde. Din fil bliver kort nok til at indsætte i en chat uden at blive klippet af. Og når rammen bliver bedre her, får du forbedringen uden at skulle flette noget.
+
+Du skal heller ikke læse filen, når du får den. Det er dit eget arbejde skrevet ned — du kopierer og gemmer, og så er du færdig.
+
 ## Næste samtale
 
 AI'en husker ikke din playbook. Start en ny samtale sådan her:
 
 > Her er min playbook. Jeg vil køre opskrift [nr.]. [Indsæt eller vedhæft filen.]
 
-Resten kan den læse sig til — instruktionerne står i filen.
+Har din AI adgang til nettet, kan du tilføje: *"Rammen står i github.com/mbuchvardt/playbook-loop — hent PLAYBOOK.md."* Kan den ikke, går det også: det vigtigste følger med i selve opskriften.
