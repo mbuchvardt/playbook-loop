@@ -4,7 +4,7 @@
 
 En rekursiv funktion har brug for tre ting: et sted at begynde, en hukommelse, og en regel, der kalder sig selv.
 
-Det er præcis, hvad en playbook er.
+Det er præcis, hvad denne playbook er.
 
 ![Loopet: brug, opdag, ret, gem – og rundt igen, længere ude](docs/loop.png)
 
