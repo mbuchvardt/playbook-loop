@@ -63,8 +63,14 @@ svarede. Skriv den om, så den handler om mit fag og netop den opgave:
   pladsholdere - de skal væk.
 - Opfind ikke opgaver, jeg ikke har nævnt. Er du i tvivl, så spørg.
 
-Vis mig kun den ene opskrift. Sig hvilken af de 15 du tog udgangspunkt i,
-og hvad du ændrede.
+Indeholder min opgave personoplysninger eller kundedata, så sig det i ÉN linje
+ØVERST - før opskriften - og sig, hvad jeg skal gøre, før jeg går i gang.
+Ikke nederst i en ⚠-note. Jeg skal vide det, før jeg læser videre.
+
+Vis mig så kun den ene opskrift, og hold det kort: opskriften, én linje om
+hvilken af de 15 du tog udgangspunkt i, og højst tre linjer om hvad du
+ændrede. Vil jeg vide mere, spørger jeg. Ingen tekstmure - jeg skal arbejde,
+ikke læse.
 
 Hvis ingen af de 15 passer, så sig det og skriv en ny i samme format.
 
