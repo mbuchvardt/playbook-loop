@@ -4,7 +4,7 @@
 
 En rekursiv funktion har brug for tre ting: et sted at begynde, en hukommelse, og en regel, der kalder sig selv.
 
-Det er præcis, hvad denne playbook er.
+Det er præcis, hvad en playbook er.
 
 ![Loopet: brug, opdag, ret, gem – og rundt igen, længere ude](docs/loop.png)
 
@@ -19,6 +19,10 @@ Giv din AI denne ene sætning:
 Så stiller den dig to spørgsmål: hvad du laver, og hvilken opgave der tog mest af din tid i sidste uge. Derefter skriver den **én** opskrift til netop den opgave, og I kører den med det samme.
 
 Fem minutter senere har du løst en rigtig opgave — og din playbook, version 1.0, med den ene opskrift i.
+
+![En sætning, to spørgsmål, en opskrift — og en rettelse, der slår igennem med det samme](docs/demo.gif)
+
+*31 sekunder, optaget i den gratis udgave af ChatGPT. Læg mærke til prompten til sidst: den sagde "Tilbudssum ekskl. moms", indtil projektlederen sagde fra. Det er loopet.*
 
 ## Hvad der sker derefter
 
