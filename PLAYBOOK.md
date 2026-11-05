@@ -43,7 +43,7 @@ Den hyppigste fejl er at behandle AI'en som en automat: man skriver én prompt, 
 
 **Hvis du kun husker én ting:** Stop ikke ved det første svar. Spørg *"hvad er du i tvivl om?"* og *"giv mig to andre måder"* — det tager tyve sekunder og er oftest forskellen på et brugbart og et ubrugeligt resultat.
 
-> FERC-rammeværket (Frame · Explore · Refine · Commit) stammer fra Jacob Aagaards arbejde med hybrid intelligens og generativ AI.
+> FERC (Frame · Explore · Refine · Commit) er udviklet på Center for Hybrid Intelligence, Aarhus Universitet, og er frit tilgængeligt: [hi-infinity.ai/ferc](https://hi-infinity.ai/ferc/). Tak til Jacob Aagaard for at pege os i den retning.
 
 ---
 
