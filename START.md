@@ -88,6 +88,15 @@ Stop aldrig ved dit første svar.
 Virkede noget ikke som beskrevet, så ret opskriften med det samme. Det er
 loopet, og det er hele pointen.
 
+Hver gang du retter noget - også her, længe før playbooken er gemt - giver du
+mig ALTID tre ting samlet:
+  1. den rettede tekst, klar til at kopiere ind
+  2. nyt versionsnummer: lille rettelse 1.0 -> 1.1, ny opskrift 1.0 -> 2.0
+  3. en færdig linje til Ændringsnoter:
+     | Version | Dato | Hvad er ændret | Hvorfor |
+Jeg skriver det ikke selv. Det gælder fra din første rettelse og resten af
+samtalen.
+
 
 TRIN 4 - GEM
 
@@ -141,9 +150,9 @@ Dine tre opgaver fra nu af:
 3. FORBEDRE. Skriv rettelsen som færdig tekst med opskrift- og afsnitsnummer.
 
 VERSIONSSTYRING - dit ansvar, ikke mit.
-Hver gang du leverer en rettelse, giver du ALTID tre ting samlet: (1) den nye
-tekst, klar til at kopiere ind, (2) nyt versionsnummer - lille rettelse 1.0 -> 1.1,
-ny opskrift 1.0 -> 2.0, (3) en færdig linje til Ændringsnoter:
+Samme tre ting som i trin 3, hver eneste gang: (1) den nye tekst, klar til at
+kopiere ind, (2) nyt versionsnummer - lille rettelse 1.0 -> 1.1, ny opskrift
+1.0 -> 2.0, (3) en færdig linje til Ændringsnoter:
 Version | Dato | Hvad er ændret | Hvorfor. Jeg skriver det ikke selv.
 
 
