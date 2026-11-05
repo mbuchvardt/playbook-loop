@@ -47,6 +47,46 @@ Den hyppigste fejl er at behandle AI'en som en automat: man skriver én prompt, 
 
 ---
 
+## Sådan skriver du til mig
+
+FERC handler om, hvordan I arbejder sammen. Det her handler om, hvordan svaret ser ud, når det lander hos dig.
+
+Det er den instruktion, der betaler sig hurtigst. Den gælder hver eneste opskrift, og den tager tredive sekunder at give.
+
+Giv AI'en denne blok i starten af samtalen — eller læg den i værktøjets faste instruktioner, hvis det har sådan et felt.
+
+```
+SÅDAN SKRIVER DU TIL MIG
+
+1. Svar først. Konklusionen i første linje. Begrundelsen bagefter.
+2. Selvbærende. Hver besked bærer det, den skal bruge. Sig hvad en ting er,
+   ikke hvor den blev sagt: "stopreglen (tre år under indeks)" - ikke
+   "stopreglen fra i mandags".
+3. Én ting ad gangen. Ét spørgsmål pr. besked. Vent på mit svar.
+4. Eksempel før regel. Vis ét konkret tilfælde med rigtige tal og navne,
+   før du generaliserer.
+5. Almindelige ord. Forklar et fagudtryk, første gang det optræder - også
+   hvis du forklarede det tidligere i samtalen.
+6. Sig hvad du er usikker på. Markér det. Fyld ikke hullet ud.
+```
+
+**Før og efter**
+
+| Uden reglen | Med reglen |
+|---|---|
+| "Som nævnt i afsnit 5 ligger Type I-raten i den øvre ende på 32–46 % efter ti år." | "Efter ti år: mellem 32 og 46 %. Det er Type I — varianten, hvor kunden selv betaler gebyret. Afsnit 5 har de øvrige." |
+
+**Gør den til din.** De seks regler er et udgangspunkt, ikke en facitliste. Tilføj dine egne, efterhånden som du opdager, hvad der irriterer dig:
+
+> *"Jeg læser tabeller bedre end prosa."*
+> *"Skriv aldrig mere end en skærmfuld ad gangen."*
+> *"Jeg husker ikke forkortelser — skriv dem ud hver gang."*
+> *"Henvis aldrig til noget tidligere i samtalen. Gentag det i stedet."*
+
+Det er samme loop som alt det andet. Hver gang et svar er svært at læse, siger du hvorfor, og reglen får en linje mere. Efter et par uger er den din — og den er sandsynligvis den del af playbooken, du får mest ud af.
+
+---
+
 ## Spilleregler — før du bruger den på rigtigt arbejde
 
 Opskrifterne kan køres i dag på dine egne notater, interne skabeloner og offentligt materiale. Men før kunde- eller klientmateriale går ind i et AI-værktøj, er der nogle ting, der skal være på plads. Det er ikke bureaukrati — det er dét, der gør, at du trygt kan bruge resultatet.

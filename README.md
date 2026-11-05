@@ -33,7 +33,7 @@ Rekursion lyder som noget, AI gør ved sig selv. Her gør du det. Maskinen glemm
 | Fil | Hvad det er |
 |---|---|
 | [START.md](START.md) | Bootstrap-prompten. Den, du peger din AI på. |
-| [PLAYBOOK.md](PLAYBOOK.md) | Hvordan loopet virker, spillereglerne, og hvordan du måler, om det giver værdi. |
+| [PLAYBOOK.md](PLAYBOOK.md) | Hvordan loopet virker, hvordan du får AI'en til at skrive, så du kan læse det, spillereglerne, og hvordan du måler, om det giver værdi. |
 | [OPSKRIFTER.md](OPSKRIFTER.md) | 15 opskrifter på konkrete arbejdsopgaver. |
 
 ## Opskrifterne er med vilje allerede udfyldte

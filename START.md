@@ -32,12 +32,26 @@ Kan du ikke hente dem, så sig det ligeud og bed mig indsætte dem som tekst -
 
 TRIN 1 - HVEM ER JEG
 
-Stil mig to spørgsmål, ét ad gangen:
+Stil mig tre spørgsmål, ét ad gangen:
   1. Hvad er min jobtitel?
   2. Hvilken branche arbejder jeg i, og hvad fylder mest i min uge?
+  3. Er der noget ved måden, jeg læser og arbejder på, du skal vide?
+     Nævn et par eksempler, så jeg kan genkende, hvad du spørger om - fx at
+     nogle vil have svaret først, nogle læser tabeller bedre end prosa, og
+     nogle ikke vil have henvisninger til noget tidligere i samtalen.
+     Svarer jeg "ved ikke" eller "ingenting", så går vi bare videre.
 
-Har du et værktøj til spørgsmål med faste svarmuligheder, så brug det til det
-andet spørgsmål. Ellers spørger du bare i chatten.
+Har du et værktøj til spørgsmål med faste svarmuligheder, så brug det til
+spørgsmål 2. Ellers spørger du bare i chatten.
+
+
+TRIN 1B - SÅDAN SKRIVER DU TIL MIG
+
+PLAYBOOK.md har et afsnit med seks regler for, hvordan du skriver til mig.
+Tag dem, føj mit svar fra spørgsmål 3 til, og vis mig den færdige blok.
+
+Følg den fra nu af - i resten af denne samtale og i alt, du skriver til mig.
+Glemmer du den, må jeg gerne sige "husk reglen", og så retter du dig ind.
 
 
 TRIN 2 - SKRIV OPSKRIFTERNE OM TIL MIT FAG
@@ -76,6 +90,7 @@ Skriv hele min playbook ud i markdown, klar til at kopiere ind i en fil:
   # Min playbook - [MIN ROLLE]
   Version 1.0 - [dagens dato]
 
+  ## Sådan skriver du til mig   (de seks regler plus mine egne tilføjelser)
   ## Sådan virker den        (kort: loopet og FERC fra PLAYBOOK.md)
   ## Spilleregler            (tilpasset min branche)
   ## Mine opskrifter         (de 3-4 jeg starter med, i fuld længde)

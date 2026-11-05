@@ -8,6 +8,8 @@ Hver opskrift er én opgave, du allerede laver i forvejen. Strukturen er den sam
 > Prompterne er skrevet med eksempler fra et advokatfirma — de står inde i de firkantede parenteser, sådan her: `[MIN ROLLE – fx advokat]`. Det er ikke, fordi playbooken er til jurister. Det er, fordi en tom skabelon er svær at komme i gang med.
 > Når du kører [START.md](START.md), skriver din AI dem om til dit fag. Så er advokaten væk.
 
+> **Giv AI'en kommunikationsreglen først.** Seks linjer i [PLAYBOOK.md](PLAYBOOK.md#sådan-skriver-du-til-mig) om, hvordan svaret skal se ud, når det lander hos dig. Den gælder alle 15 opskrifter og tager tredive sekunder at give.
+
 > **🔒 markerer opskrifter, der bruger kunde- eller klientmateriale.** De kræver adgangsbilletten — se [Spilleregler i PLAYBOOK.md](PLAYBOOK.md#spilleregler--før-du-bruger-den-på-rigtigt-arbejde). Uden den: kør dem på afidentificeret materiale.
 >
 > **Startpakken uden ventetid:** opskrift 15, 1 og 10. De kører på dit eget udkast, dine egne noter og offentligt materiale — ingen tilladelser nødvendige.
