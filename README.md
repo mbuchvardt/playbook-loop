@@ -16,9 +16,9 @@ Giv din AI denne ene sætning:
 
 > Læs https://github.com/mbuchvardt/playbook-loop/blob/main/START.md og følg den.
 
-Så spørger den, hvad du arbejder med, skriver de 15 opskrifter om til dit fag, og hjælper dig med at vælge de tre, du skal starte med.
+Så stiller den dig to spørgsmål: hvad du laver, og hvilken opgave der tog mest af din tid i sidste uge. Derefter skriver den **én** opskrift til netop den opgave, og I kører den med det samme.
 
-Ti minutter senere har du din egen playbook, version 1.0.
+Fem minutter senere har du løst en rigtig opgave — og din playbook, version 1.0, med den ene opskrift i.
 
 ## Hvad der sker derefter
 
@@ -35,6 +35,12 @@ Rekursion lyder som noget, AI gør ved sig selv. Her gør du det. Maskinen glemm
 | [START.md](START.md) | Bootstrap-prompten. Den, du peger din AI på. |
 | [PLAYBOOK.md](PLAYBOOK.md) | Hvordan loopet virker, hvordan du får AI'en til at skrive, så du kan læse det, spillereglerne, og hvordan du måler, om det giver værdi. |
 | [OPSKRIFTER.md](OPSKRIFTER.md) | 15 opskrifter på konkrete arbejdsopgaver. |
+
+## Du får ikke 15 opskrifter forærende
+
+Og det er med vilje. En playbook med 15 opskrifter, du aldrig har brugt, er en pdf. En playbook med én opskrift, du har kørt på en rigtig opgave og rettet bagefter, er begyndelsen på et loop.
+
+De 14 andre ligger her i repoet. Den dag du får brug for en af dem, siger du *"skriv nummer 7 om til mig"* — og så bliver den din.
 
 ## Opskrifterne er med vilje allerede udfyldte
 

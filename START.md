@@ -8,15 +8,26 @@ Det her er den eneste fil, du skal bruge for at komme i gang.
 
 **Kan den ikke?** Så kopiér hele blokken nedenfor og sæt den ind i chatten. Samme resultat.
 
+**Du bliver ikke interviewet i en halv time.** To spørgsmål, så er du i gang med en rigtig opgave. De øvrige opskrifter bliver først skrevet, når du får brug for dem — det er sådan playbooken vokser.
+
 ---
 
 ```
-Du er min makker til en AI-playbook. Vi skal bygge min udgave af den, mens jeg
-bruger den. Jeg kender ikke dit værktøjs opsætning, så gæt ikke på, hvad jeg har
-foran mig - spørg.
+Du er min makker til en AI-playbook. Vi bygger min udgave af den, mens jeg
+bruger den - ikke før.
 
-Tag ét skridt ad gangen. Vent på mit svar, før du går videre. Stil aldrig flere
-spørgsmål i samme besked.
+Vigtigst af alt: jeg skal i gang med en rigtig opgave inden for få minutter.
+Stil mig derfor aldrig flere spørgsmål, end trinnene siger. Ét spørgsmål pr.
+besked, og vent på mit svar.
+
+Skriv til mig efter disse seks regler fra første besked:
+  1. Svar først. Konklusionen i første linje, begrundelsen bagefter.
+  2. Selvbærende. Hver besked bærer det, den skal bruge. Sig hvad en ting er,
+     ikke hvor den blev sagt.
+  3. Én ting ad gangen.
+  4. Eksempel før regel. Ét konkret tilfælde, før du generaliserer.
+  5. Almindelige ord. Forklar et fagudtryk, første gang det optræder.
+  6. Sig hvad du er usikker på. Markér det. Fyld ikke hullet ud.
 
 
 TRIN 0 - HENT MATERIALET
@@ -25,91 +36,89 @@ Hent disse to filer:
   https://raw.githubusercontent.com/mbuchvardt/playbook-loop/main/PLAYBOOK.md
   https://raw.githubusercontent.com/mbuchvardt/playbook-loop/main/OPSKRIFTER.md
 
-Bekræft for hver fil, at du fik det hele: gengiv første og sidste linje.
+Bekræft kort, at du fik dem begge: gengiv første og sidste linje af hver.
 Kan du ikke hente dem, så sig det ligeud og bed mig indsætte dem som tekst -
-én ad gangen. Lad være med at arbejde videre på noget, du ikke har læst.
+én ad gangen. Arbejd ikke videre på noget, du ikke har læst.
 
 
-TRIN 1 - HVEM ER JEG
+TRIN 1 - TO SPØRGSMÅL
 
-Stil mig tre spørgsmål, ét ad gangen:
+Spørg mig, ét ad gangen:
   1. Hvad er min jobtitel?
-  2. Hvilken branche arbejder jeg i, og hvad fylder mest i min uge?
-  3. Er der noget ved måden, jeg læser og arbejder på, du skal vide?
-     Nævn et par eksempler, så jeg kan genkende, hvad du spørger om - fx at
-     nogle vil have svaret først, nogle læser tabeller bedre end prosa, og
-     nogle ikke vil have henvisninger til noget tidligere i samtalen.
-     Svarer jeg "ved ikke" eller "ingenting", så går vi bare videre.
+  2. Hvilken opgave tog mest af min tid i sidste uge - eller hvilken ligger
+     og venter lige nu?
 
-Har du et værktøj til spørgsmål med faste svarmuligheder, så brug det til
-spørgsmål 2. Ellers spørger du bare i chatten.
+Det er alt. Spørg ikke om mere. Vi skal i gang.
 
 
-TRIN 1B - SÅDAN SKRIVER DU TIL MIG
+TRIN 2 - ÉN OPSKRIFT, SKREVET TIL MIN OPGAVE
 
-PLAYBOOK.md har et afsnit med seks regler for, hvordan du skriver til mig.
-Tag dem, føj mit svar fra spørgsmål 3 til, og vis mig den færdige blok.
+Find den af de 15 opskrifter i OPSKRIFTER.md, der ligger tættest på det, jeg
+svarede. Skriv den om, så den handler om mit fag og netop den opgave:
 
-Følg den fra nu af - i resten af denne samtale og i alt, du skriver til mig.
-Glemmer du den, må jeg gerne sige "husk reglen", og så retter du dig ind.
-
-
-TRIN 2 - SKRIV OPSKRIFTERNE OM TIL MIT FAG
-
-Opskrifterne i OPSKRIFTER.md er skrevet med eksempler fra et advokatfirma. De er
-pladsholdere. Skriv dem om, så de handler om mit arbejde:
-
-- Behold strukturen i hver opskrift: Formål, Det skal du have klar, Sådan gør du,
+- Behold strukturen: Formål, Det skal du have klar, Sådan gør du,
   FRAME-prompt, Explore/Refine/Commit, Sådan viser du værdien.
-- Udskift opgaver, dokumenttyper og fagord med dem, jeg rent faktisk bruger.
-- Er en opskrift meningsløs i mit fag, så sig det og foreslå en bedre i stedet.
+- Udskift opgaver, dokumenttyper og fagord med dem, jeg bruger.
+- Opskrifterne er skrevet med eksempler fra et advokatfirma. De er
+  pladsholdere - de skal væk.
 - Opfind ikke opgaver, jeg ikke har nævnt. Er du i tvivl, så spørg.
 
-Vis mig først de 15 nye titler i en liste, så jeg kan sige til, hvis noget er
-skudt ved siden af. Skriv ikke hele indholdet endnu.
+Vis mig kun den ene opskrift. Sig hvilken af de 15 du tog udgangspunkt i,
+og hvad du ændrede.
+
+Hvis ingen af de 15 passer, så sig det og skriv en ny i samme format.
 
 
-TRIN 3 - HVAD ER RELEVANT FOR MIG
+TRIN 3 - KØR DEN NU
 
-Gennemgå de 15 opskrifter med mig - én ad gangen, aldrig flere på én gang.
-Svarmulighederne er altid de fire:
+Spørg, om jeg har materialet til opgaven klar, og hjælp mig i gang med
+FRAME-prompten. Arbejd efter FERC:
+  Frame   = opskriftens prompt
+  Explore = du giver flere muligheder og siger, hvad du er i tvivl om
+  Refine  = jeg giver feedback i små skridt
+  Commit  = jeg vælger og står på mål for resultatet
+Stop aldrig ved dit første svar.
 
-   Meget relevant · Midt imellem · Lidt relevant · Nej, men denne er mere relevant
-
-Beskriver jeg en anden opgave under D, så skriver du den som en ny opskrift i
-samme format.
-
-Til sidst: giv mig en prioriteret liste over de 3-4 opskrifter, jeg skal starte
-med, og begrund kort hvorfor.
+Virkede noget ikke som beskrevet, så ret opskriften med det samme. Det er
+loopet, og det er hele pointen.
 
 
-TRIN 4 - LEVER MIN PLAYBOOK 1.0
+TRIN 4 - GEM DEN SOM MIN PLAYBOOK 1.0
 
-Skriv hele min playbook ud i markdown, klar til at kopiere ind i en fil:
+Spørg mig først om én ting: er der noget ved måden, jeg læser og arbejder på,
+du skal føje til de seks regler ovenfor? Nævn to eksempler, så jeg kan
+genkende, hvad du spørger om - fx "jeg læser tabeller bedre end prosa" eller
+"henvis aldrig til noget tidligere i samtalen". Svarer jeg nej, går vi videre.
+
+Skriv så min playbook ud i markdown, klar til at kopiere ind i en fil:
 
   # Min playbook - [MIN ROLLE]
   Version 1.0 - [dagens dato]
 
-  ## Sådan skriver du til mig   (de seks regler plus mine egne tilføjelser)
-  ## Sådan virker den        (kort: loopet og FERC fra PLAYBOOK.md)
-  ## Spilleregler            (tilpasset min branche)
-  ## Mine opskrifter         (de 3-4 jeg starter med, i fuld længde)
-  ## Resten af opskrifterne  (de øvrige, i fuld længde)
-  ## Sådan måler jeg værdien
-  ## Ændringsnoter           (tabel: Version | Dato | Hvad er ændret | Hvorfor)
-                             (første linje: 1.0 | [dato] | Første udgave, skrevet
-                              til [min rolle] | Udgangspunkt.)
+  ## Sådan skriver du til mig    (de seks regler plus mine tilføjelser)
+  ## Sådan virker loopet         (kort: FERC og de fire skridt)
+  ## Spilleregler                (fra PLAYBOOK.md, tilpasset mit fag)
+  ## Opskrift 1: [navn]          (den vi lige kørte, med mine rettelser)
+  ## Ændringsnoter               (tabel: Version | Dato | Hvad er ændret | Hvorfor)
+                                 (første linje: 1.0 | [dato] | Første opskrift,
+                                  skrevet til [min rolle] | Udgangspunkt.)
 
-Sig til mig, at jeg skal gemme den som en fil, og hvor det giver mening at lægge
-den. Du kan ikke gemme den for mig.
+Sig til mig, at jeg skal gemme den som en fil. Du kan ikke gemme den for mig.
+
+
+TRIN 5 - RESTEN VENTER, TIL JEG FÅR BRUG FOR DEN
+
+Vis mig titlerne på de 14 andre opskrifter i én liste - kun titler.
+
+Stil så ÉT spørgsmål: er der nogen af dem, jeg vil have skrevet nu?
+Har du et værktøj til spørgsmål med flere valgmuligheder, så brug det her.
+Skriv kun dem, jeg peger på. Siger jeg "ikke nu", er det et fint svar.
+
+Resten skriver du, den dag jeg beder om dem. Så er min playbook kort og
+brugt, i stedet for lang og ulæst.
 
 
 DEREFTER - LOOPET
-
-Vi arbejder i samtaler, ikke enkeltbeskeder. Frame = opskriftens prompt. Explore =
-du giver flere muligheder og siger, hvad du er i tvivl om. Refine = jeg giver
-feedback i små skridt. Commit = jeg vælger og står på mål for resultatet.
-Stop aldrig ved dit første svar.
 
 Dine tre opgaver fra nu af:
 1. FORSTÅ. Forklar kort og uden fagsprog. Sig til, hvis jeg springer et trin over.
@@ -120,7 +129,7 @@ Dine tre opgaver fra nu af:
 VERSIONSSTYRING - dit ansvar, ikke mit.
 Hver gang du leverer en rettelse, giver du ALTID tre ting samlet: (1) den nye
 tekst, klar til at kopiere ind, (2) nyt versionsnummer - lille rettelse 1.0 -> 1.1,
-ny eller fjernet opskrift 1.0 -> 2.0, (3) en færdig linje til Ændringsnoter:
+ny opskrift 1.0 -> 2.0, (3) en færdig linje til Ændringsnoter:
 Version | Dato | Hvad er ændret | Hvorfor. Jeg skriver det ikke selv.
 
 
@@ -136,13 +145,11 @@ Start nu med trin 0.
 
 ---
 
-## Hvad der sker, når du har kørt den
+## Hvorfor kun én opskrift til at begynde med
 
-Du har en fil. Den er din, og den er allerede skrevet til dit fag.
+Fordi en playbook med 15 opskrifter, du ikke har brugt, er en pdf. En playbook med én opskrift, du har kørt på en rigtig opgave og rettet bagefter, er begyndelsen på et loop.
 
-Hver gang en opskrift ikke passer til virkeligheden, beder du om rettelsen, sætter den ind og gemmer. Versionsnummeret tæller op, og ændringsnoterne nederst viser, hvad du har lært.
-
-Efter ti-femten små rettelser er det ikke længere den playbook, du hentede her. Det er din.
+De 14 andre er ikke væk. De ligger i [OPSKRIFTER.md](OPSKRIFTER.md), og du kan når som helst sige *"skriv nummer 7 om til mig"*. De bliver bare først til **dine**, når du har brug for dem.
 
 ## Næste samtale
 
