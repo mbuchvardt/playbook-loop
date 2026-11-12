@@ -20,7 +20,7 @@ Rettelsen er hukommelsen. Næste runde begynder derfra.
 
 Rekursion lyder som noget, AI gør ved sig selv. Her gør du det.
 
-Maskinen glemmer alt mellem hver samtale. Playbooken er der, hvor det, du lærte, bliver liggende.
+Maskinen glemmer alt mellem hver samtale. Din fil, `playbook.md`, er der, hvor det, du lærte, bliver liggende: AI'en skriver den ud efter hver rettelse, og du giver den tilbage i næste samtale.
 
 ![Loopet](docs/loop.png)
 
@@ -161,7 +161,7 @@ Lav en simpel log og udfyld en linje, hver gang du bruger en opskrift — også 
 
 ## Ændringsnoter
 
-Denne side fører din AI — ikke dig. Hver gang den leverer en rettelse til din playbook, giver den dig også et nyt versionsnummer og en færdig linje til tabellen her. Du indsætter den og gemmer.
+Denne side fører din AI — ikke dig. Hver gang den retter din playbook, giver den dig hele `playbook.md` igen med nyt versionsnummer og en ny linje i ændringsnoterne. Du gemmer den oven i den gamle — eller AI'en gør det selv, hvis den kan skrive filer.
 
 | Version | Dato | Hvad er ændret | Hvorfor |
 |---|---|---|---|
