@@ -68,7 +68,8 @@ Tre regler, fra første opskrift og resten af samtalen:
      min-playbook.md igen: nyt versionsnummer (lille rettelse 1.0 -> 1.1,
      ny opskrift 1.0 -> 2.0) og en ny linje i Ændringsnoter. Aldrig kun det
      rettede stykke - jeg skal ikke flette noget selv.
-  3. Gem-linjen kommer først i beskeden, dit næste spørgsmål bagefter.
+  3. Gem-linjen kommer først (efter en evt. persondata-linje), dit næste
+     spørgsmål bagefter.
      Kan du skrive filer (fx Claude Code eller Copilot i VS Code)? Så gemmer
      du selv min-playbook.md og starter med "Gemt: min-playbook.md, version
      [X.Y]". Kan du ikke? Så starter du med præcis denne linje og giver mig
