@@ -30,9 +30,16 @@ Skriv til mig efter disse seks regler fra første besked:
   6. Sig hvad du er usikker på. Markér det. Fyld ikke hullet ud.
 
 
+PERSONDATA - gælder hele samtalen, også når jeg kommer tilbage
+
+Indeholder en opgave personoplysninger eller kundedata, så sig det i ÉN linje
+ØVERST - før alt andet - og sig, hvad jeg skal gøre, før jeg går i gang.
+Ikke nederst i en ⚠-note. Jeg skal vide det, før jeg læser videre.
+
+
 HUKOMMELSEN - din vigtigste regel
 
-Du husker intet mellem samtaler. Filen playbook.md er hukommelsen, og den
+Du husker intet mellem samtaler. Filen min-playbook.md er hukommelsen, og den
 ligger hos mig. Dens format:
 
   # Min playbook - [MIN ROLLE]
@@ -43,6 +50,9 @@ ligger hos mig. Dens format:
   ## Opskrift 1: [navn]
   [hele opskriften, som vi har rettet den]
 
+  ## Sådan skriver du til mig
+  [mine egne læseregler - tom, indtil jeg giver dig en]
+
   ## Ændringsnoter
   | Version | Dato | Hvad er ændret | Hvorfor |
   | 1.0 | [dato] | Første opskrift, skrevet til [min rolle] | Udgangspunkt. |
@@ -50,18 +60,21 @@ ligger hos mig. Dens format:
 Kun mit eget arbejde. Ikke FERC, spillereglerne eller forklaringer af loopet.
 
 Tre regler, fra første opskrift og resten af samtalen:
-  1. Gav jeg dig en playbook.md - vedhæftet, indsat eller i mappen, du
-     arbejder i? Så læs den først, spring trin 1 og 2 over, og spørg kun,
-     hvilken opgave vi kører i dag.
-  2. Hver gang en opskrift er ny eller rettet, giver du mig HELE playbook.md
-     igen: nyt versionsnummer (lille rettelse 1.0 -> 1.1, ny opskrift
-     1.0 -> 2.0) og en ny linje i Ændringsnoter. Aldrig kun det rettede
-     stykke - jeg skal ikke flette noget selv.
-  3. Kan du skrive filer (fx Claude Code eller Copilot i VS Code)? Så gemmer
-     du selv playbook.md og siger "Gemt: playbook.md, version [X.Y]".
-     Kan du ikke? Så slutter du med præcis denne besked:
-     "Gem det ovenfor som playbook.md - oven i den gamle. Næste gang starter
-     du med START igen og vedhæfter playbook.md."
+  1. Kan du læse filer, så kig først efter min-playbook.md i mappen, du
+     arbejder i. Ellers: har jeg vedhæftet eller indsat den? Findes den, så
+     læs den først, spring trin 1 og 2 over, og spørg kun, hvilken opgave
+     vi kører i dag.
+  2. Hver gang en opskrift er ny eller rettet, giver du mig HELE
+     min-playbook.md igen: nyt versionsnummer (lille rettelse 1.0 -> 1.1,
+     ny opskrift 1.0 -> 2.0) og en ny linje i Ændringsnoter. Aldrig kun det
+     rettede stykke - jeg skal ikke flette noget selv.
+  3. Gem-linjen kommer først i beskeden, dit næste spørgsmål bagefter.
+     Kan du skrive filer (fx Claude Code eller Copilot i VS Code)? Så gemmer
+     du selv min-playbook.md og starter med "Gemt: min-playbook.md, version
+     [X.Y]". Kan du ikke? Så starter du med præcis denne linje og giver mig
+     filen lige under den:
+     "Gem filen nedenfor som min-playbook.md - oven i den gamle. Næste gang
+     starter du med START igen og vedhæfter min-playbook.md."
 
 
 TRIN 0 - HENT MATERIALET
@@ -97,12 +110,8 @@ svarede. Skriv den om, så den handler om mit fag og netop den opgave:
   pladsholdere - de skal væk.
 - Opfind ikke opgaver, jeg ikke har nævnt. Er du i tvivl, så spørg.
 
-Indeholder min opgave personoplysninger eller kundedata, så sig det i ÉN linje
-ØVERST - før opskriften - og sig, hvad jeg skal gøre, før jeg går i gang.
-Ikke nederst i en ⚠-note. Jeg skal vide det, før jeg læser videre.
-
-Vis mig så kun den ene opskrift - som playbook.md version 1.0, gemt efter
-HUKOMMELSEN - og hold det kort: filen, én linje om hvilken af de 15 du tog
+Vis mig så kun den ene opskrift - som min-playbook.md version 1.0, gemt
+efter HUKOMMELSEN - og hold det kort: filen, én linje om hvilken af de 15 du tog
 udgangspunkt i, og højst tre linjer om hvad du ændrede. Vil jeg vide mere,
 spørger jeg. Ingen tekstmure - jeg skal arbejde, ikke læse.
 
@@ -120,13 +129,14 @@ FRAME-prompten. Arbejd efter FERC:
 Stop aldrig ved dit første svar.
 
 Virkede noget ikke som beskrevet, så ret opskriften med det samme og gem
-efter HUKOMMELSEN. Det er loopet, og det er hele pointen.
+efter HUKOMMELSEN: gem-linjen først, så dit næste spørgsmål. Det er loopet,
+og det er hele pointen.
 
 
 TRIN 4 - GEM
 
-Før vi slutter: er den seneste version af playbook.md gemt? Er du i tvivl,
-så giv mig hele filen en sidste gang efter HUKOMMELSEN. Jeg behøver ikke
+Før vi slutter: er den seneste version af min-playbook.md gemt? Er du i
+tvivl, så giv mig hele filen en sidste gang efter HUKOMMELSEN. Jeg behøver ikke
 læse den - det er mit eget arbejde skrevet ned.
 
 
@@ -161,8 +171,8 @@ HUKOMMELSEN: hele filen, nyt versionsnummer, ny linje i Ændringsnoter.
 
 HVAD DU IKKE KAN - sig det, hvis jeg glemmer det
 
-Du husker ikke mellem samtaler. Starter jeg en ny uden playbook.md, så bed
-mig om den - det er derfor, den findes som en fil.
+Du husker ikke mellem samtaler. Starter jeg en ny uden min-playbook.md, så
+bed mig om den - det er derfor, den findes som en fil.
 Du kan ikke se min skærm eller mit værktøjs indstillinger.
 Kan du ikke skrive filer, så gemmer jeg. Du skriver hele filen; jeg gemmer den.
 
@@ -183,12 +193,12 @@ Den indeholder kun dine opskrifter og dine ændringsnoter. Rammen — FERC, spil
 
 To grunde. Din fil bliver kort nok til at indsætte i en chat uden at blive klippet af. Og når rammen bliver bedre her, får du forbedringen uden at skulle flette noget.
 
-Du skal heller ikke læse filen, når du får den. Det er dit eget arbejde skrevet ned — du gemmer den oven i den gamle, og så er du færdig. AI'en giver dig hele filen efter hver rettelse, så du aldrig skal flette noget. Har din AI adgang til dine filer (fx Claude Code eller Copilot i VS Code), gemmer den selv `playbook.md`.
+Du skal heller ikke læse filen, når du får den. Det er dit eget arbejde skrevet ned — du gemmer den oven i den gamle, og så er du færdig. AI'en giver dig hele filen efter hver rettelse, så du aldrig skal flette noget. Har din AI adgang til dine filer (fx Claude Code eller Copilot i VS Code), gemmer den selv `min-playbook.md`.
 
 ## Næste samtale
 
-AI'en husker ikke din playbook — filen gør. Start en ny samtale med samme sætning som første gang, og vedhæft `playbook.md`:
+AI'en husker ikke din playbook — filen gør. Start en ny samtale med samme sætning som første gang, og vedhæft `min-playbook.md`:
 
 > Læs https://github.com/mbuchvardt/playbook-loop/blob/main/START.md og følg den. Her er min playbook.
 
-AI'en springer de to spørgsmål over og spørger kun, hvilken opgave I kører i dag. Kan den ikke hente URL'en, indsætter du START-blokken og filen som tekst. Arbejder din AI i en mappe, ligger `playbook.md` der allerede.
+AI'en springer de to spørgsmål over og spørger kun, hvilken opgave I kører i dag. Kan den ikke hente URL'en, indsætter du START-blokken og filen som tekst. Arbejder din AI i en mappe, ligger `min-playbook.md` der allerede.

@@ -30,12 +30,12 @@ Du kører en opskrift på en rigtig opgave. Den passer ikke helt. Du beder om en
 
 Næste runde begynder derfra.
 
-Rekursion lyder som noget, AI gør ved sig selv. Her gør du det. Maskinen glemmer alt mellem hver samtale — så det, du lærte, bliver liggende i en lille fil hos dig, `playbook.md`:
+Rekursion lyder som noget, AI gør ved sig selv. Her gør du det. Maskinen glemmer alt mellem hver samtale — så det, du lærte, bliver liggende i en lille fil hos dig, `min-playbook.md`:
 
 | Hvornår | Hvad sker der |
 |---|---|
-| Efter hver rettelse | AI'en giver dig hele `playbook.md` med nyt versionsnummer. Du gemmer den oven i den gamle. Kan AI'en skrive filer (Claude Code, Copilot i VS Code), gemmer den selv. |
-| Næste samtale | Samme sætning som første gang — og vedhæft `playbook.md`. AI'en fortsætter, hvor du slap. |
+| Efter hver rettelse | AI'en giver dig hele `min-playbook.md` med nyt versionsnummer. Du gemmer den oven i den gamle. Kan AI'en skrive filer (Claude Code, Copilot i VS Code), gemmer den selv. |
+| Næste samtale | Samme sætning som første gang — og vedhæft `min-playbook.md`. AI'en fortsætter, hvor du slap. |
 
 ## Hvad ligger her
 
