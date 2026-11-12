@@ -1,6 +1,6 @@
 # Playbook — sådan virker den
 
-Version 2.0 · generisk udgave · [ændringsnoter nederst](#ændringsnoter)
+Version 2.1 · generisk udgave · [ændringsnoter nederst](#ændringsnoter)
 
 Det her er rammen om opskrifterne. Selve opskrifterne ligger i [OPSKRIFTER.md](OPSKRIFTER.md).
 
@@ -20,7 +20,7 @@ Rettelsen er hukommelsen. Næste runde begynder derfra.
 
 Rekursion lyder som noget, AI gør ved sig selv. Her gør du det.
 
-Maskinen glemmer alt mellem hver samtale. Playbooken er der, hvor det, du lærte, bliver liggende.
+Maskinen glemmer alt mellem hver samtale. Din fil, `min-playbook.md`, er der, hvor det, du lærte, bliver liggende: AI'en skriver den ud efter hver rettelse, og du giver den tilbage i næste samtale.
 
 ![Loopet](docs/loop.png)
 
@@ -161,13 +161,13 @@ Lav en simpel log og udfyld en linje, hver gang du bruger en opskrift — også 
 
 ## Ændringsnoter
 
-Denne side fører din AI — ikke dig. Hver gang den leverer en rettelse til din playbook, giver den dig også et nyt versionsnummer og en færdig linje til tabellen her. Du indsætter den og gemmer.
+Tabellen her er rammens egen log — ændringer i denne playbook. Dine egne ændringsnoter står nederst i `min-playbook.md`, og dem fører din AI: hver gang den retter en opskrift, giver den dig hele filen igen med nyt versionsnummer og en ny linje. Du gemmer den oven i den gamle — eller AI'en gør det selv, hvis den kan skrive filer.
 
 | Version | Dato | Hvad er ændret | Hvorfor |
 |---|---|---|---|
-| 1.0 | | Første udgave | Udgangspunkt. |
-| | | | |
+| 2.0 | | Generisk udgave | Udgangspunkt. |
+| 2.1 | 2026-11-12 | Din fil hedder `min-playbook.md`, og AI'en giver dig hele filen efter hver rettelse | Så det, du lærte, ikke går tabt mellem samtaler. Navnet undgår forveksling med PLAYBOOK.md på Windows og macOS. |
 
-**Når listen har 10-15 linjer:** Kig den igennem med din AI og spørg: *"Hvilke af disse ændringer handler om, at jeg selv skulle finde og indsætte materiale? Og hvilke handler om, at værktøjet gjorde noget andet, end jeg forventede?"*
+**Når listen i din `min-playbook.md` har 10-15 linjer:** Kig den igennem med din AI og spørg: *"Hvilke af disse ændringer handler om, at jeg selv skulle finde og indsætte materiale? Og hvilke handler om, at værktøjet gjorde noget andet, end jeg forventede?"*
 
 Den første bunke er dit argument for integrationer — det er dér, et rigtigt AI-setup ville fjerne arbejde, du udfører i hånden i dag. Den anden bunke er bare noget, der skulle læres. Den skelnen er svær at lave bagefter, men nem, når ændringsnoterne står der.
